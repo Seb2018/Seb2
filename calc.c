@@ -7,3 +7,8 @@ float sub (float x, float y)	/*subtraction*/
 {
     return x - y;
 }
+
+float div (float x, float y)	/*division*/
+{
+    return x / y;
+}
