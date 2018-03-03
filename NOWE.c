@@ -1,1 +1,2 @@
 NOWE!!!!!
+DODANE TERAZ
