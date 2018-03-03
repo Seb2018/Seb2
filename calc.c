@@ -12,3 +12,5 @@ float div (float x, float y)	/*division*/
 {
     return x / y;
 }
+
+DZIALA
